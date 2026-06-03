@@ -229,10 +229,15 @@ Other predictive models use billing codes, lab values, demographics. This model 
 ## Status
 
 - [x] Phase 1: Pipeline scaffold with logistic regression (360 cases)
-- [ ] Phase 2: Rich feature extraction from clinical narratives
+- [x] AMIA 2026 podium abstract accepted (`#15227`)
+- [ ] AMIA final-program abstract revision
+- [ ] Phase 1 pilot cleanup: reviewer-count language, ECE definition, Section 5G plain-language rewrite
+- [ ] Phase 2: Rich feature extraction plus differential-diagnosis safety layer
 - [ ] Phase 3: Continuous learning with outcome feedback
 - [ ] Prospective validation study design
 - [ ] Clinical dashboard MVP
+
+Current AMIA and post-MCiM next-step plan: [docs/amia-2026-next-steps.md](docs/amia-2026-next-steps.md)
 
 ---
 
