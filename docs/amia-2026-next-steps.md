@@ -10,6 +10,16 @@ AMIA podium abstract `#15227` was accepted:
 
 The current revision is no longer just an abstract cleanup. It is the project control point for the post-MCiM research plan.
 
+## Repository Identity
+
+This repository is the Stanford MCiM practicum/project repository:
+
+`napiermd/ed-chest-pain-analytics`
+
+It is not yet confirmed as a dedicated paper/manuscript repository. As of 2026-06-03, GitHub repo search and exact-title code search did not find a separate repo containing the AMIA title or `AMIA podium #15227`.
+
+Use this repo as the project control surface until a dedicated manuscript repo exists or is identified.
+
 ## Faculty Feedback to Incorporate
 
 ### Mark Musen
@@ -146,4 +156,3 @@ Do not frame these as deployment-ready clinical performance claims. Frame them a
 - Are the final phase 1 reviewer numbers updated after Nick's completion?
 - Where is the current abstract file stored?
 - Should phase 2 prioritize academic publication or product validation first?
-
